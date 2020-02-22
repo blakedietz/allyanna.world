@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: blakedietz/allyanna-blog-cms
+  repo: blakedietz/allyanna.world
 media_folder: /static/assets
 public_folder: /assets
 collections:
