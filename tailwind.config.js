@@ -2,15 +2,11 @@ module.exports = {
   theme: {
     //Colors found at https://github.com/Jaredk3nt/laserwave
     colors:{
-      "maximum-blue": "#40b4c4",
-      "hot-pink": "#EB64B9",
-      "powder-blue": "#b4dce7",
-      "african-violet": "#b381c5",
-      "pearl-aqua": "#74dfc4",
-      "old-lavendar": "#91889b",
-      "roman-silver": "#716385",
-      "mustard": "#ffe261",
-      "raisin-black": "#27212e",
+      "primary": "#f67280",
+      "secondary": "#f8b195",
+      "tertiary": "#c06c84",
+      "quaternary":"#6c567b",
+      "black": "#3f3f3f"
     },
     container: {
       padding: '2rem',

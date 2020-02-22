@@ -16,7 +16,7 @@ export default function Template({
         <div>
           <div className={`flex flex-row justify-between content-center items-center`}>
             <h1>{frontmatter.title}</h1>
-            <h2>{getFormattedDate((new Date(frontmatter.date)))}</h2>
+            <span className={`text-secondary text-lg`}>{getFormattedDate((new Date(frontmatter.date)))}</span>
           </div>
           <div
             className="blog-post-content list-disc list-decimal"

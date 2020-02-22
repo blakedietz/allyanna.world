@@ -9,49 +9,27 @@ const Header = ({ siteTitle }) => (
       <div className={`mb-8`}>
         <Link
           to="/"
-          className={`text-mustard text-xl`}
+          id="home-link"
         >
-          {siteTitle}<span id="cursor">|</span>
+          {siteTitle}
         </Link>
       </div>
-      <div className={`flex flex-row flex-wrap `}>
+      <div className={`flex flex-row flex-wrap`}>
+        <div className={`mr-2`}>
+          <Link
+            to="/services"
+          >
+            AW.Click
+          </Link>
+        </div>
+        <div className={`mr-2`}>
+          {"//"}
+        </div>
         <div className={`mr-2`}>
           <Link
             to="/blog-posts"
           >
-            blog
-          </Link>
-          {` | `}
-        </div>
-        <div className={`mr-2`}>
-          <Link
-            to="/about"
-          >
-            about
-          </Link>
-          {` | `}
-        </div>
-        <div className={`mr-2`}>
-          <Link
-            to="/projects"
-          >
-            projects
-          </Link>
-          {` | `}
-        </div>
-        <div className={`mr-2`}>
-          <Link
-            to="/resume"
-          >
-            resume
-          </Link>
-          {` | `}
-        </div>
-        <div className={`mr-2`}>
-          <Link
-            to="/social"
-          >
-            social
+            Blog
           </Link>
         </div>
       </div>

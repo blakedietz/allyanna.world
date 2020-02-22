@@ -13,13 +13,13 @@ import "./layout.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
+      query SiteTitleQuery {
+          site {
+              siteMetadata {
+                  title
+              }
+          }
       }
-    }
   `)
 
   return (
@@ -27,12 +27,12 @@ const Layout = ({ children }) => {
       <div className={`container flex flex-col min-h-screen`}>
         <Header siteTitle={data.site.siteMetadata.title}/>
         <main className={`flex-grow`}>
-            {children}
+          {children}
         </main>
-        <footer className={`my-8 w-full text-roman-silver`}>
+        <footer className={`my-8 w-full text-quaternary`}>
           <div className={`flex flex-col text-xs`}>
             <div>
-              <a href="https://github.com/blakedietz/blakedietz.me">Made with ❤️ by @blakedietz. </a>
+              <a href="https://github.com/blakedietz/allyanna.world">Made with ❤️ by @blakedietz. </a>
             </div>
           </div>
         </footer>
