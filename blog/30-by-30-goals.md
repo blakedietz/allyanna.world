@@ -26,7 +26,7 @@ T - Time Bound
 
 
 
-In my personal journal, I dived deeper into each goal.  I asked myself why this specific goal was important to me and if it aligns with my life values.  Then I wrote about past experiences with each goal.  For example, take goal #26: Journal Once a Week.  I’ve tried establishing this habit in the past but it didn’t stick.  I thought about why it’s important and how it will benefit me.  Then I wrote out a plan for the upcoming year that was realistic and manageable.  Lastly, I want to make these goals visible--thus, this post!  Have you ever heard of the saying, “Out of sight, out of mind.”?  My mom used to say this to me all of the time growing up and now I’m a believer of the phrase.  Thanks, mom! 👋  
+In my personal journal, I dived deeper into each goal.  I asked myself why this specific goal was important to me and if it aligns with my life values.  Then I wrote about past experiences with each goal.  For example, take goal #26: Journal Once a Week.  I’ve tried establishing this habit in the past but it didn’t stick.  I thought about why it’s important and how it will benefit me.  Then I wrote out a plan for the upcoming year that was realistic and manageable.  Lastly, I want to make these goals visible--thus, this post!  Have you ever heard of the saying, “Out of sight, out of mind.”?  Growing up, my mom used to say this to me *all* of the time and now I’m a believer of the phrase.  Thanks, mom! 👋  
 
 Below you’ll find my list of 30 by 30 goals.  I want to share this with you.  I want *you* to keep me accountable too.  I believe by putting this out in the universe, it will help me conquer this list.
 
