@@ -1,7 +1,7 @@
 ---
 path: /blog/30-by-30
 date: 2020-02-24T01:40:34.039Z
-title: 30 by 30 Goals
+title: 30 by 30
 description: >-
   Welcome to my thought process when it comes to setting goals.  Here you'll
   find a list of 30 goals I want to complete by the age of 30.
