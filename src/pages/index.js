@@ -11,7 +11,7 @@ const IndexPage = () => (
     <p>My name is Ally and I’m happy you’re here.</p>
     <p>
       I’m a lover of fashion, photography, food and hacks that make life
-      simpler. Since 2001 I’ve had the pleasure of calling one of the most
+      simpler. Since the early 2000s I’ve had the pleasure of calling one of the most
       beautiful parts of the Pacific Northwest my home: Boise, Idaho. Sharing my
       ideas and thoughts beyond my bubble with the world is new to me! But I’m
       taking a leap of faith here, folks. Stick around because I can’t wait to
