@@ -1,5 +1,5 @@
 ---
-path: /blog
+path: /blog/
 date: 2020-08-03T05:10:19.274Z
 title: 'Q + A:  Learning About Photography'
 description: >-
