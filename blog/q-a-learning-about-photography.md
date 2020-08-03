@@ -13,7 +13,7 @@ This morning I was completing a photo album for a client. This particular photos
 
 While looking through the photos on my computer, I took a moment to think about my answers.  After a couple of minutes I began to speak but suddenly he said, “Hang on!” Just then he rushed around the office to grab his phone and gimbal. I knew immediately what he was about to do: film me answering his questions. He sets it up, aims the camera at me and asks the first question again. So, I gave him my answers, smiled, then turned around to complete my work. He smiles too and said, “Okay, I’m sending this video to you now. You should blog about this when you have the time.” And he’s right. I’ve been meaning to get more blog posts uploaded as well as create posts about the subject of photography, specifically what I’m learning as a newbie. Thus, ten hours and some change later, here I am ready to share my answers with you.
 
-Before I do, I just want to take a moment to humblebrag about my partner. He is one of my biggest cheerleaders and empowers me each day. He helps me show up as the best version of myself and he never lets me forget what I’m capable of doing.  **Thanks, babe.**
+Before I do, I just want to take a moment to humblebrag about my partner. He is one of my biggest cheerleaders and empowers me each day. He helps me show up as the best version of myself and he never lets me forget what I’m capable of doing.
 
 Alright, back to those questions… I don’t plan on sharing the video, instead you’ll get the written version. This is doing you a favor because you will not have to be distracted by my morning hair (which looks like a pink bird’s nest) or my awkward sitting position, looking like I was going to be interviewed by Oprah.
 
