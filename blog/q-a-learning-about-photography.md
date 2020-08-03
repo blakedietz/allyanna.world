@@ -19,7 +19,7 @@ Alright, back to those questions… I don’t plan on sharing the video, instead
 
 *What did you learn that you’ll **try to do** at your next photoshoot?*
 
-What I learned working with the expecting couple is how to make two people feel more comfortable with me, each other and the camera. Sure, I can get to know them ahead of time and provide encouraging feedback during a session but this time I asked each person questions that required an answer about their partner. This type of technique would work really well for couples, specifically. For example, there was a trail at the location we were at and I wanted them to walk towards the camera but focus on each other. Now, if I told them, “Don’t look at me, just look at each other and walk,” they might stare directly at one another and smile every other step. After the fact, the photos end up looking less genuine, in my opinion. Instead, I told them, “Okay, start walking towards me but \[insert one partner’s name here] tell \[other partner’s name] about your absolute favorite dish they cook for you!”  Of course, I had to ask them this because I'm a big foodie but it worked!  Immediately I could see the compliment-or grin and begin talking while the compliment-ee blushes and smiles at the same time.
+What I learned working with the expecting couple is how to make two people feel more comfortable with me, each other and the camera. Sure, I can get to know them ahead of time and provide encouraging feedback during a session and this time I asked each person questions that required an answer about their partner. This type of technique would work really well for couples, specifically. For example, there was a trail at the location we were at and I wanted them to walk towards the camera but focus on each other. Now, if I told them, “Don’t look at me, just look at each other and walk,” they might stare directly at one another and smile every other step. After the fact, the photos end up looking less genuine, in my opinion. Instead, I told them, “Okay, start walking towards me and \[insert one partner’s name here] tell \[other partner’s name] about your absolute favorite dish they cook for you!”  Of course, I had to ask them this because I'm a big foodie but it worked!  Immediately I could see the compliment-or grin and begin talking while the compliment-ee blushes and smiles at the same time.
 
 A few more to consider telling your subject:
 
@@ -28,7 +28,7 @@ A few more to consider telling your subject:
 * The classic--share your best joke.
 * Where do you want to go on vacation next?
 
-I believe questions and storytelling between your subjects brings out a more natural side of them. This not only helps them become more comfortable with the photographer but also in front of the camera.
+I believe questions and storytelling between your subjects brings out a more natural side of them. This helps them become more comfortable with the photographer and in front of the camera.
 
 *What did you learn that you will **try not to do** at your next photoshoot?*
 
